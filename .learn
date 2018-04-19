@@ -3,3 +3,5 @@ tags:
 level: 1
 type:
   - to-do
+
+parent_template: git@github.com:learn-co-curriculum/upperline-hs-data-structures-to-do.git

@@ -1,4 +1,3 @@
-
 #That's Nonsense!
 
 <img src="https://s3.amazonaws.com/after-school-assets/gibberish.gif">
@@ -7,3 +6,4 @@ Write a method `crazy_strings` that takes in two strings as arguments. The first
 
 For example, `crazy_strings("Hello", "Friends")` should return `"OLLEH fRIENDZ"`.
 
+<p data-visibility='hidden'>KWK-L1 That's Nonsense!</p>
