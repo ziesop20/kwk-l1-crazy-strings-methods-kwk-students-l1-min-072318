@@ -1,5 +1,10 @@
 tags:
   - kids
-level: 1
+level: 
+  - 1
 type:
   - to-do
+languages:
+  - ruby
+
+parent_template: git@github.com:learn-co-curriculum/upperline-hs-data-structures-to-do.git
